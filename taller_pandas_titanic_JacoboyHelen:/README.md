@@ -1,4 +1,4 @@
-# Taller Pandas — Titanic 🚢
+# Taller Pandas — Titanic
 
 **Curso:** Programación II — Ciencia de Datos  
 **Universidad:** Externado de Colombia  
